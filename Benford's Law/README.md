@@ -1,4 +1,4 @@
-# Accounting-analysis
+# Benford's Law
 
 In 1938, Frank Benford found that a large number of naturally-occurring datasets follow this pattern:
   Surface areas of rivers, molecular weights, death rates, street addresses, and the numbers contained in an issue of Readers 
